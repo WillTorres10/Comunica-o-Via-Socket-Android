@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Socket Cliente</string>
+    <string name="setIP">IP</string>
+    <string name="setPort">Porta</string>
+    <string name="sincronize">Conectar ao Servidor</string>
+    <string name="desconectar">Desconectar do Servidor</string>
+</resources>
